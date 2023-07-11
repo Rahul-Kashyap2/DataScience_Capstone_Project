@@ -5,5 +5,7 @@ Week 1: Data Collection and Wrangling
 
 Week 2: Data EDA and SQL
 
-Week 3: Folium + Plotly Dashboard and Data Modeling  
+Week 3: Folium + Plotly Dashboard
+
+Week 4: Data Modeling and Prediction
 
